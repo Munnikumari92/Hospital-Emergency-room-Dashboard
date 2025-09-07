@@ -29,6 +29,7 @@ BUSINESS REQUIREMENTS:-
                               Use an area sparkline to track daily trends and identify departments with high referral rates, which may require additional resources.
                               
 Dashboard 1: -
+
 Monthly View 
 Objective: Monitor key metrics and trends on a month-by-month basis to identify patterns and areas for improvement.
 Charts to Develop:
@@ -40,12 +41,16 @@ Charts to Develop:
        6. Racial Demographics: Analyze patient data by race.
        7. Time Analysis: Assess patient volume by day and hour.
        
-Dashboard 2: Consolidated View 
+Dashboard 2:-
+
+Consolidated View 
 Objective: Provide a holistic summary of hospital performance for a selected date range.
 Charts to Develop:
         Similar metrics as the Monthly View, but aggregated over a customizable date range for broader insights and trend analysis
         
- Dashboard 3: Patient Details
+ Dashboard 3:-
+ 
+ Patient Details
 Objective: Offer granular insights into patient-level data to enable detailed analysis and troubleshooting.
 Charts to Develop: A grid displaying essential fields:
 Patient ID
