@@ -28,8 +28,8 @@ BUSINESS REQUIREMENTS:-
       4. Number of Patients Referred:-Count the number of patients referred to specific departments from the ER each day.
                               Use an area sparkline to track daily trends and identify departments with high referral rates, which may require additional resources.
                               
-Dashboard 1: Monthly View 
-
+Dashboard 1: -
+Monthly View 
 Objective: Monitor key metrics and trends on a month-by-month basis to identify patterns and areas for improvement.
 Charts to Develop:
        1. Patient Admission Status: Track admitted vs. non-admitted patients.
