@@ -44,6 +44,7 @@ Charts to Develop:
 Dashboard 2:-
 
 Consolidated View 
+
 Objective: Provide a holistic summary of hospital performance for a selected date range.
 Charts to Develop:
         Similar metrics as the Monthly View, but aggregated over a customizable date range for broader insights and trend analysis
@@ -51,6 +52,7 @@ Charts to Develop:
  Dashboard 3:-
  
  Patient Details
+ 
 Objective: Offer granular insights into patient-level data to enable detailed analysis and troubleshooting.
 Charts to Develop: A grid displaying essential fields:
 Patient ID
