@@ -1,5 +1,6 @@
 # Hospital-Emergency-room-Dashboard
-STEPS IN PROJECT
+STEPS IN PROJECT:-
+
     Requirement Gathering/ Business Requirements
     Data Walkthrough
     Data Connection
