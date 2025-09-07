@@ -30,8 +30,10 @@ BUSINESS REQUIREMENTS:-
                               
 Dashboard 1: -
 
-Monthly View 
+Monthly View
+
 Objective: Monitor key metrics and trends on a month-by-month basis to identify patterns and areas for improvement.
+
 Charts to Develop:
        1. Patient Admission Status: Track admitted vs. non-admitted patients.
        2. Patient Age Distribution: Group patients by 10-year age intervals.
@@ -46,6 +48,7 @@ Dashboard 2:-
 Consolidated View 
 
 Objective: Provide a holistic summary of hospital performance for a selected date range.
+
 Charts to Develop:
         Similar metrics as the Monthly View, but aggregated over a customizable date range for broader insights and trend analysis
         
@@ -54,7 +57,9 @@ Charts to Develop:
  Patient Details
  
 Objective: Offer granular insights into patient-level data to enable detailed analysis and troubleshooting.
+
 Charts to Develop: A grid displaying essential fields:
+
 Patient ID
 Patient Full Name
 Gender
