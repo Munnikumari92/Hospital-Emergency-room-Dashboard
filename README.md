@@ -23,6 +23,7 @@ BUSINESS REQUIREMENTS:-
       3. Patient Satisfaction Score:- Analyze the average satisfaction score of patients on a daily basis to evaluate the quality of service provided. Present a daily trend                               using an area sparkline to identify dips in satisfaction and correlate them with operational challenges or peak times.
       4. Number of Patients Referred:-Count the number of patients referred to specific departments from the ER each day.
                               Use an area sparkline to track daily trends and identify departments with high referral rates, which may require additional resources.
+                              
 Dashboard 1: Monthly View 
 Objective: Monitor key metrics and trends on a month-by-month basis to identify patterns and areas for improvement.
 Charts to Develop:
